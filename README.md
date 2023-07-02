@@ -11,5 +11,5 @@ Mushroom hunting (otherwise known as "shrooming") is enjoying new peaks in popul
 5. Finding a relation between population and Habitat of Mushroom
 
 # TASK - 2 📌
-->Determining whether the problem requires classification or regression analysis.
-->Implementing the appropriate classification or regression techniques on the dataset.
+->Determining whether the problem requires classification or regression analysis 
+->Implementing the appropriate classification or regression techniques on the dataset

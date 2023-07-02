@@ -7,7 +7,7 @@ Mushroom hunting (otherwise known as "shrooming") is enjoying new peaks in popul
 1. Visualizing distribution of class , cap-shape , cap-color , cap-surface of mushroom varieties.
 2. Finding relation between gill-size and gill spacing.
 3. Doing an analysis over the stalk of mushroom .
-4. Which plot will be the best to show relation between color and class of mushrom.
+4. Which plot will be the best to show relation between color and class of mushroom.
 5. Finding a relation between population and Habitat of Mushroom
 
 # TASK - 2 📌
